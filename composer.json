@@ -1,5 +1,5 @@
 {
-    "name": "testing/prestissimotest",
+    "name": "sankar/prestissimotesting",
     "description": "composer parallel install plugin",
     "type": "composer-plugin",
     "keywords": ["parallel", "install", "speedup"],
